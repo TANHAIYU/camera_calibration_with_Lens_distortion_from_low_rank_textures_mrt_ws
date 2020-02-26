@@ -1,0 +1,3 @@
+- git: {local-name: selfcalib_tool, uri: 'https://gitlab.mrt.uni-karlsruhe.de/MRT/private/poggenhans/hiwis/selfcalib_tool.git'}
+- git: {local-name: mrt_cmake_modules, uri: 'https://gitlab.mrt.uni-karlsruhe.de/pub/mrt_cmake_modules.git',
+    version: master}

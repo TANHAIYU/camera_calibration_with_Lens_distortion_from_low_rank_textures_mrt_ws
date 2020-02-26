@@ -1,0 +1,6 @@
+devel_space: /home/htan/master_thesis/camera_calibration_with_Lens_distortion_from_low_rank_textures_ws/devel
+install: false
+install_space: /home/htan/master_thesis/camera_calibration_with_Lens_distortion_from_low_rank_textures_ws/install
+profile: release
+source_space: /home/htan/master_thesis/camera_calibration_with_Lens_distortion_from_low_rank_textures_ws/src
+workspace: /home/htan/master_thesis/camera_calibration_with_Lens_distortion_from_low_rank_textures_ws

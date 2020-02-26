@@ -1,0 +1,8 @@
+prefix=/home/htan/master_thesis/camera_calibration_with_Lens_distortion_from_low_rank_textures_ws/install
+
+Name: catkin_tools_prebuild
+Description: Description of catkin_tools_prebuild
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

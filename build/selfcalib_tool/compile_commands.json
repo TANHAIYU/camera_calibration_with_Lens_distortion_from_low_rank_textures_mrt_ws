@@ -1,0 +1,42 @@
+[
+{
+  "directory": "/home/htan/master_thesis/camera_calibration_with_Lens_distortion_from_low_rank_textures_ws/build/selfcalib_tool",
+  "command": "/usr/lib/ccache/c++  -DROS_BUILD_SHARED_LIBS=1 -I/home/htan/master_thesis/camera_calibration_with_Lens_distortion_from_low_rank_textures_ws/src/selfcalib_tool/src -I/home/htan/master_thesis/camera_calibration_with_Lens_distortion_from_low_rank_textures_ws/devel/.private/selfcalib_tool/include -isystem /opt/mrtsoftware/release/include -isystem /opt/mrtsoftware/release/include/opencv  -O2 -g -DNDEBUG   -fopenmp -fdiagnostics-color=auto -Wno-ignored-attributes -Wno-int-in-bool-context -Wno-maybe-uninitialized -faligned-new -Wno-deprecated-copy -Werror=address -Werror=enum-compare -Werror=format -Werror=nonnull -Werror=return-type -Werror=sequence-point -Werror=strict-aliasing -Werror=switch -Werror=trigraphs -Werror=volatile-register-var -Werror=array-bounds=1 -Werror=openmp-simd -Werror=bool-compare -Werror=init-self -Werror=logical-not-parentheses -Werror=memset-transposed-args -Werror=nonnull-compare -Werror=sizeof-pointer-memaccess -Werror=tautological-compare -Werror=uninitialized -Werror=bool-operation -Werror=memset-elt-size -Werror=catch-value -Werror=missing-attributes -Werror=multistatement-macros -Werror=restrict -Werror=sizeof-pointer-div -Werror=misleading-indentation -Werror=pessimizing-move -march=sandybridge -std=gnu++17 -o CMakeFiles/selfcalib_tool-selfcalib_tool-exec.dir/src/SelfCalibration.cpp.o -c /home/htan/master_thesis/camera_calibration_with_Lens_distortion_from_low_rank_textures_ws/src/selfcalib_tool/src/SelfCalibration.cpp",
+  "file": "/home/htan/master_thesis/camera_calibration_with_Lens_distortion_from_low_rank_textures_ws/src/selfcalib_tool/src/SelfCalibration.cpp"
+},
+{
+  "directory": "/home/htan/master_thesis/camera_calibration_with_Lens_distortion_from_low_rank_textures_ws/build/selfcalib_tool/gtest/googlemock",
+  "command": "/usr/lib/ccache/c++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_main_EXPORTS -I/usr/src/googletest/googlemock/include -I/usr/src/googletest/googlemock -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest  -O2 -g -DNDEBUG -fPIC    -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock_main.dir/__/googletest/src/gtest-all.cc.o -c /usr/src/googletest/googletest/src/gtest-all.cc",
+  "file": "/usr/src/googletest/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/htan/master_thesis/camera_calibration_with_Lens_distortion_from_low_rank_textures_ws/build/selfcalib_tool/gtest/googlemock",
+  "command": "/usr/lib/ccache/c++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_main_EXPORTS -I/usr/src/googletest/googlemock/include -I/usr/src/googletest/googlemock -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest  -O2 -g -DNDEBUG -fPIC    -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock_main.dir/src/gmock-all.cc.o -c /usr/src/googletest/googlemock/src/gmock-all.cc",
+  "file": "/usr/src/googletest/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/home/htan/master_thesis/camera_calibration_with_Lens_distortion_from_low_rank_textures_ws/build/selfcalib_tool/gtest/googlemock",
+  "command": "/usr/lib/ccache/c++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_main_EXPORTS -I/usr/src/googletest/googlemock/include -I/usr/src/googletest/googlemock -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest  -O2 -g -DNDEBUG -fPIC    -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /usr/src/googletest/googlemock/src/gmock_main.cc",
+  "file": "/usr/src/googletest/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "/home/htan/master_thesis/camera_calibration_with_Lens_distortion_from_low_rank_textures_ws/build/selfcalib_tool/gtest/googlemock",
+  "command": "/usr/lib/ccache/c++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_EXPORTS -I/usr/src/googletest/googlemock/include -I/usr/src/googletest/googlemock -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest  -O2 -g -DNDEBUG -fPIC    -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock.dir/__/googletest/src/gtest-all.cc.o -c /usr/src/googletest/googletest/src/gtest-all.cc",
+  "file": "/usr/src/googletest/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/htan/master_thesis/camera_calibration_with_Lens_distortion_from_low_rank_textures_ws/build/selfcalib_tool/gtest/googlemock",
+  "command": "/usr/lib/ccache/c++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_EXPORTS -I/usr/src/googletest/googlemock/include -I/usr/src/googletest/googlemock -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest  -O2 -g -DNDEBUG -fPIC    -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /usr/src/googletest/googlemock/src/gmock-all.cc",
+  "file": "/usr/src/googletest/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/home/htan/master_thesis/camera_calibration_with_Lens_distortion_from_low_rank_textures_ws/build/selfcalib_tool/gtest/googlemock/gtest",
+  "command": "/usr/lib/ccache/c++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgtest_main_EXPORTS -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest  -O2 -g -DNDEBUG -fPIC    -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /usr/src/googletest/googletest/src/gtest_main.cc",
+  "file": "/usr/src/googletest/googletest/src/gtest_main.cc"
+},
+{
+  "directory": "/home/htan/master_thesis/camera_calibration_with_Lens_distortion_from_low_rank_textures_ws/build/selfcalib_tool/gtest/googlemock/gtest",
+  "command": "/usr/lib/ccache/c++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgtest_EXPORTS -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest  -O2 -g -DNDEBUG -fPIC    -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /usr/src/googletest/googletest/src/gtest-all.cc",
+  "file": "/usr/src/googletest/googletest/src/gtest-all.cc"
+}
+]

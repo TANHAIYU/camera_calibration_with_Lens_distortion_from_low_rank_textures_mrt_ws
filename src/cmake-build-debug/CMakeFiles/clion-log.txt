@@ -1,0 +1,79 @@
+/usr/local/clion-2019.3.4/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/htan/master_thesis/camera_calibration_with_Lens_distortion_from_low_rank_textures_ws/src
+-- The C compiler identification is GNU 9.2.1
+-- The CXX compiler identification is GNU 9.2.1
+-- Check for working C compiler: /usr/lib/ccache/cc
+-- Check for working C compiler: /usr/lib/ccache/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /usr/lib/ccache/c++
+-- Check for working CXX compiler: /usr/lib/ccache/c++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found nvcc at '/usr/local/cuda/bin/nvcc'
+-- The CUDA compiler identification is NVIDIA 10.2.89
+-- Check for working CUDA compiler: /usr/local/cuda/bin/nvcc
+-- Check for working CUDA compiler: /usr/local/cuda/bin/nvcc -- works
+-- Detecting CUDA compiler ABI info
+-- Detecting CUDA compiler ABI info - done
+-- Using CATKIN_DEVEL_PREFIX: /home/htan/master_thesis/camera_calibration_with_Lens_distortion_from_low_rank_textures_ws/src/cmake-build-debug/devel
+-- Using CMAKE_PREFIX_PATH: /opt/mrtros;/opt/mrtsoftware/local;/opt/mrtsoftware/release
+-- This workspace overlays: /opt/mrtros;/opt/mrtsoftware/local;/opt/mrtsoftware/release
+-- Found PythonInterp: /usr/bin/python2 (found suitable version "2.7.17", minimum required is "2") 
+-- Using PYTHON_EXECUTABLE: /usr/bin/python2
+-- Using Debian Python package layout
+-- Using empy: /usr/bin/empy
+-- Using CATKIN_ENABLE_TESTING: ON
+-- Call enable_testing()
+-- Using CATKIN_TEST_RESULTS_DIR: /home/htan/master_thesis/camera_calibration_with_Lens_distortion_from_low_rank_textures_ws/src/cmake-build-debug/test_results
+-- Found gtest sources under '/usr/src/googletest': gtests will be built
+-- Found gmock sources under '/usr/src/googletest': gmock will be built
+-- Found PythonInterp: /usr/bin/python2 (found version "2.7.17") 
+-- Looking for pthread.h
+-- Looking for pthread.h - found
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+-- Looking for pthread_create in pthreads
+-- Looking for pthread_create in pthreads - not found
+-- Looking for pthread_create in pthread
+-- Looking for pthread_create in pthread - found
+-- Found Threads: TRUE  
+-- Using Python nosetests: /usr/bin/nosetests-2.7
+-- catkin 0.7.20
+-- BUILD_SHARED_LIBS is on
+-- BUILD_SHARED_LIBS is on
+-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-- ~~  traversing 2 packages in topological order:
+-- ~~  - mrt_cmake_modules
+-- ~~  - selfcalib_tool
+-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-- +++ processing catkin package: 'mrt_cmake_modules'
+-- ==> add_subdirectory(mrt_cmake_modules)
+-- +++ processing catkin package: 'selfcalib_tool'
+-- ==> add_subdirectory(selfcalib_tool)
+-- Found OpenMP_C: -fopenmp (found version "4.5") 
+-- Found OpenMP_CXX: -fopenmp (found version "4.5") 
+-- Found OpenMP: TRUE (found version "4.5")  
+-- MRT CMake configuration file found: /opt/mrtsoftware/release/share/cmake/mrt_cmake_configuration.cmake
+-- Setting -march to sandybridge
+CMake Warning at mrt_cmake_modules/cmake/Modules/GatherDeps.cmake:36 (message):
+  Usage of mrt_opencv in package.xml is deprecated.  Use 'libopencv-dev'
+  instead!
+
+Call Stack (most recent call first):
+  selfcalib_tool/CMakeLists.txt:11 (include)
+
+
+-- Found CUDA: /usr/local/cuda (found suitable exact version "10.2") 
+-- Found OpenCV: /opt/mrtsoftware/release (found version "3.4.8") 
+-- Adding executable "selfcalib_tool" with source: src/SelfCalibration.cpp
+-- Marking targets "selfcalib_tool-selfcalib_tool-exec" of package "selfcalib_tool" for installation
+-- Generating cmake exports for selfcalib_tool to /home/htan/master_thesis/camera_calibration_with_Lens_distortion_from_low_rank_textures_ws/src/cmake-build-debug/devel/share
+-- Adding nosetests in folder test
+-- Using Python nosetests: /usr/bin/nosetests-2.7
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/htan/master_thesis/camera_calibration_with_Lens_distortion_from_low_rank_textures_ws/src/cmake-build-debug

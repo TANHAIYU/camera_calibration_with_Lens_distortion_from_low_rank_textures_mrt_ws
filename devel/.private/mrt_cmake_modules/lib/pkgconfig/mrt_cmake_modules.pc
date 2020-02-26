@@ -1,0 +1,8 @@
+prefix=/home/htan/master_thesis/camera_calibration_with_Lens_distortion_from_low_rank_textures_ws/devel/.private/mrt_cmake_modules
+
+Name: mrt_cmake_modules
+Description: Description of mrt_cmake_modules
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
